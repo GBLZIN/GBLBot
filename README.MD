@@ -15,4 +15,4 @@ Esse BOT possui três comandos para os usuários utilizarem, sendo eles:
   - Imagem do comando sendo executado: https://i.imgur.com/c4VIGOG.png
 
  - **/ping**: Retornar a API Latência do BOT naquele momento. 
-  - Imagem do comando sendo executado: https://i.imgur.com/fpVfrjv.png
+   - Imagem do comando sendo executado: https://i.imgur.com/fpVfrjv.png
