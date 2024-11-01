@@ -4,7 +4,7 @@ module.exports = {
   data: new SlashCommandBuilder()
     .setName('avatar')
     .setDescription('Veja o avatar de algum membro.')
-    .addUserOption(option => option.setName("user").setDescription("Mencione a pessoa que vocÃª deseja ver o avatar.").setRequired(true)),
+    .addUserOption(option => option.setName("user").setDescription("Mencione o usuário que você deseja visualizar o avatar").setRequired(true)),
 
   async execute(interaction, client) {
     let user = await interaction.options.getUser('user');
