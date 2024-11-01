@@ -5,7 +5,7 @@ Aproveitei essa oportunidade para praticar o que aprendi sobre JavaScript em 202
 Esse BOT possui três comandos para os usuários utilizarem, sendo eles:
 - **/avatar**: Este comando possui a funcionalidade de fornecer o avatar do(a) usuário(a) correspondente ao ID inserido no campo requisitado. 
   - Imagem do comando sendo executado: https://i.imgur.com/aanFS54.png
-  - **/info**: Este comando possui a funcionalidade de fornecer as informações do(a) usuário(a) correspondente ao ID inserido no campo requisitado. 
+- **/info**: Este comando possui a funcionalidade de fornecer as informações do(a) usuário(a) correspondente ao ID inserido no campo requisitado. 
   - Informações repassadas pelo BOT:
   - Nome do Discord do usuário);
   - Identificação (ID do Discord do usuário);
